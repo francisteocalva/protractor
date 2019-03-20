@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="5" time="17.337">
+ <testsuite name="XYZ Bank" timestamp="2019-03-19T17:31:57" hostname="localhost" time="17.337" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="XYZ Bank" name="TC01- Validate XYZ Bank Title page" time="1.664" />
+  <testcase classname="XYZ Bank" name="TC02- Validate Add Customer" time="3.777" />
+  <testcase classname="XYZ Bank" name="TC03- Validate Open Account" time="2.763" />
+  <testcase classname="XYZ Bank" name="TC04- Validate Autofilter" time="0.786" />
+  <testcase classname="XYZ Bank" name="TC05- Validate Delete button" time="0.603" />
+ </testsuite>
+</testsuites>

@@ -1,5 +1,5 @@
 # protractor
-Protractor Using Jasmine
+Protractor (Typescript) Using Jasmine
 
 
 Use the link to guide your installation for the depedencies 

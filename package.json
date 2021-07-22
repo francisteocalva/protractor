@@ -29,6 +29,6 @@
     "typescript": "^3.3.3333",
     "webdriverjs-retry": "^0.2.0",
     "winston": "^3.2.1",
-    "xlsx": "^0.14.1"
+    "xlsx": "^0.17.0"
   }
 }
